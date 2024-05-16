@@ -3,10 +3,11 @@ import Navbar from "./components/Navbar";
 import HeroSection from "./components/HeroSection";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
+import Footer from "./components/Footer";
 
 function page() {
   return (
-    <div className="min-h-[400vh] bg-black overflow-hidden">
+    <div className="min-h-screen bg-black overflow-hidden">
 
       <div className="dark:bg-black bg-white  dark:bg-dot-white/[0.2] bg-dot-black/[0.2] relative">
 
@@ -22,8 +23,10 @@ function page() {
 
       <div className="max-w-7xl mx-auto p-5 mt-20">
         <Skills />
-        
+      
         <Projects/>
+
+        <Footer/>
       </div>
     </div>
   );

@@ -10,17 +10,17 @@ function Navbar({className}:{className?:string}) {
     const socials = [
 
         {
-            link: "#",
+            link: "https://www.linkedin.com/in/aniket-dhaygude-63bab6291/",
             label: "Linkedin",
             Icon: SiLinkedin,
         },
         {
-            link: "#",
+            link: "https://github.com/Aniket-2504",
             label: "Github",
             Icon: SiGithub,
         },
         {
-            link: "#",
+            link: "https://twitter.com/Aniket_d04",
             label: "x",
             Icon: SiX,
         },

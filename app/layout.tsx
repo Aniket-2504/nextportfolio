@@ -24,7 +24,7 @@ export const metadata: Metadata = {
 		images: "/og.png",
 		type: "website",
 	},
-	keywords: ["daily web coding", "chensokheng", "dailywebcoding"],
+	keywords: ["aniket work", "aniket", "aniketportfolio"],
 };
 
 export default function RootLayout({

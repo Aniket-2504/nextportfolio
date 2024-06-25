@@ -1,5 +1,5 @@
 import React from 'react'
-import { SiExpress, SiMongodb, SiNextdotjs, SiNodedotjs, SiReact, SiTailwindcss, SiTypescript } from 'react-icons/si'
+import { SiCss3, SiDjango, SiExpress, SiHtml5, SiJavascript, SiMongodb, SiNextdotjs, SiNodedotjs, SiPython, SiReact, SiTailwindcss, SiTypescript } from 'react-icons/si'
 import Title from './Title'
 import Link from 'next/link'
 import { cn } from '@/lib/utils'
@@ -18,22 +18,22 @@ function Projects() {
         {
             title: "Ecommerce Shopping platform",
             tech: [SiReact,SiMongodb,SiNodedotjs,SiExpress],
-            link: "https://eraser-trade.vercel.app/",
-            cover: "/erasertrade.png",
+            link: "https://github.com/Aniket-2504/Ecommerceweb",
+            cover: "/ecom.png",
             background: "bg-green-500",
         },
         {
             title: "Fitme",
-            tech: [SiReact,SiMongodb,SiNodedotjs,SiExpress],
-            link: "https://eraser-trade.vercel.app/",
-            cover: "/erasertrade.png",
+            tech: [SiPython, SiDjango, SiHtml5, SiCss3],
+            link: "https://github.com/Aniket-2504/fitme",
+            cover: "/fitme.png",
             background: "bg-sky-500",
         },
         {
             title: "Portfolio Website",
-            tech: [SiReact,SiMongodb,SiNodedotjs,SiExpress],
-            link: "https://eraser-trade.vercel.app/",
-            cover: "/erasertrade.png",
+            tech: [SiHtml5, SiCss3, SiJavascript],
+            link: "https://github.com/Aniket-2504/Portfolioweb",
+            cover: "/portfolio.png",
             background: "bg-yellow-500",
         },
     ]

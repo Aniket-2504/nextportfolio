@@ -50,7 +50,7 @@ function HeroSection() {
 
             <div className='absolute bottom-5 sm:bottom-14 left-0 sm:-left-10'>
               <MovingBorderBtn borderRadius='0.5rem' className='p-3 font-semibold'> 
-                <p>Available for Work</p>
+                <p>See my resume</p>
                 </MovingBorderBtn>
                 </div>
         </div> 

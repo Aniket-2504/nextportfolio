@@ -12,7 +12,7 @@ function HeroSection() {
 
                 <h1 className='text-4xl lg:text-7xl font-bold'> Nice to meet you!  
                     <br />{" "}
-                  <span className='underline underline-offset-8 decoration-green-500 hover:text-green-400 cursor-pointer'> 
+                  <span className='underline underline-offset-8 decoration-green-500 hover:text-orange-300 cursor-pointer'> 
                       {"I'm Aniket."}
                   </span> 
                 </h1>
@@ -20,7 +20,7 @@ function HeroSection() {
             
                 <p className='md:w-96 text-lg text-gray-300'>
                     {
-                    " a 19 year cs graduate passionate about developement and design, And I love to make things, Apart from that I do freelancing."
+                    " a 20 year cs graduate passionate about developement and design, And I love to make things, Apart from that I do freelancing."
                     }
                     </p>
             

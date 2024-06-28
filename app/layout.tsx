@@ -14,14 +14,14 @@ export const metadata: Metadata = {
 	},
 
 	description:
-		"a 19 year cs graduate passionate about developement and design, And I love to make things, Apart from that I do freelancing.",
+		"a 20 year cs graduate passionate about developement and design, And I love to make things, Apart from that I do freelancing.",
 	openGraph: {
 		title: "Aniket",
 		description:
-			"Ca 19 year cs graduate passionate about developement and design, And I love to make things, Apart from that I do freelancing.",
+			"a 20 year cs graduate passionate about developement and design, And I love to make things, Apart from that I do freelancing.",
 		url: "http://localhost:3000",
 		siteName: "Aniket",
-		images: "/og.png",
+		images: "./og.png",
 		type: "website",
 	},
 	keywords: ["aniket work", "aniket", "aniketportfolio"],

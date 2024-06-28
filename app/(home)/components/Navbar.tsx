@@ -1,7 +1,7 @@
 import { cn } from '@/lib/utils';
 import Link from 'next/link';
 import React from 'react';
-import { SiGithub } from "react-icons/si";
+import { SiGithub, SiHashnode } from "react-icons/si";
 import { SiLinkedin } from "react-icons/si";
 import { SiX } from "react-icons/si";
 
@@ -23,6 +23,11 @@ function Navbar({className}:{className?:string}) {
             link: "https://twitter.com/Aniket_d04",
             label: "x",
             Icon: SiX,
+        },
+        {
+            link: "https://aniket04blog.hashnode.dev/react-toast-library-a-simple-and-satisfying-solution-for-notifications",
+            label: "x",
+            Icon: SiHashnode,
         },
     ]
 

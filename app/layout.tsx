@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	metadataBase: new URL("http://localhost:3000"),
+	metadataBase: new URL("https://aniket04portfolio.vercel.app/"),
 
 	title: "Aniket",
 	authors: {
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 		title: "Aniket",
 		description:
 			"a 20 year cs graduate passionate about developement and design, And I love to make things, Apart from that I do freelancing.",
-		url: "http://localhost:3000",
+		url: "https://aniket04portfolio.vercel.app/",
 		siteName: "Aniket",
 		images: "./og.png",
 		type: "website",

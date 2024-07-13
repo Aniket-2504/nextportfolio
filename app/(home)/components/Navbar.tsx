@@ -25,7 +25,7 @@ function Navbar({className}:{className?:string}) {
             Icon: SiX,
         },
         {
-            link: "https://aniket04blog.hashnode.dev/react-toast-library-a-simple-and-satisfying-solution-for-notifications",
+            link: "https://aniket04blog.hashnode.dev/",
             label: "x",
             Icon: SiHashnode,
         },
